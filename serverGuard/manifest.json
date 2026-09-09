@@ -1,0 +1,13 @@
+{
+  "name": "ServerGuard",
+  "description": "Locally scans visible Discord server member information for configured words or phrases.",
+  "authors": [
+    {
+      "name": "Ddeveloper-sr"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
